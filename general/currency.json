@@ -1,0 +1,709 @@
+[
+  {
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "country_code": "AE",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "AFN",
+    "currency_name": "Afghani",
+    "country_code": "AF",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "ALL",
+    "currency_name": "Lek",
+    "country_code": "AL",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "AMD",
+    "currency_name": "Armenian Dram",
+    "country_code": "AM",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "ANG",
+    "currency_name": "Netherlands Antillean Guilder",
+    "country_code": null,
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "AOA",
+    "currency_name": "Kwanza",
+    "country_code": "AO",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "ARS",
+    "currency_name": "Argentine Peso",
+    "country_code": "AR",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "country_code": null,
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "AWG",
+    "currency_name": "Aruban Florin",
+    "country_code": "AW",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "AZN",
+    "currency_name": "Azerbaijan Manat",
+    "country_code": "AZ",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "BAM",
+    "currency_name": "Convertible Mark",
+    "country_code": "BA",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "BBD",
+    "currency_name": "Barbados Dollar",
+    "country_code": "BB",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "BDT",
+    "currency_name": "Taka",
+    "country_code": "BD",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "BGN",
+    "currency_name": "Bulgarian Lev",
+    "country_code": "BG",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "BHD",
+    "currency_name": "Bahraini Dinar",
+    "country_code": "BH",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "BIF",
+    "currency_name": "Burundi Franc",
+    "country_code": "BI",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "BMD",
+    "currency_name": "Bermudian Dollar",
+    "country_code": "BM",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "BND",
+    "currency_name": "Brunei Dollar",
+    "country_code": "BN",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "BOB",
+    "currency_name": "Boliviano",
+    "country_code": "BO",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "BRL",
+    "currency_name": "Brazilian Real",
+    "country_code": "BR",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "BSD",
+    "currency_name": "Bahamian Dollar",
+    "country_code": "BS",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "BWP",
+    "currency_name": "Pula",
+    "country_code": "BW",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "BYN",
+    "currency_name": "Belarusian Ruble",
+    "country_code": "BY",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "BZD",
+    "currency_name": "Belize Dollar",
+    "country_code": "BZ",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "country_code": "CA",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "CDF",
+    "currency_name": "Congolese Franc",
+    "country_code": "CD",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "country_code": "ch",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "CLP",
+    "currency_name": "Chilean Peso",
+    "country_code": "CL",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "CNY",
+    "currency_name": "Yuan Renminbi",
+    "country_code": "CN",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "COP",
+    "currency_name": "Colombian Peso",
+    "country_code": "CO",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "CRC",
+    "currency_name": "Costa Rican Colon",
+    "country_code": "CR",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "CUP",
+    "currency_name": "Cuban Peso,Peso Convertible",
+    "country_code": "CU",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "CVE",
+    "currency_name": "Cabo Verde Escudo",
+    "country_code": "CV",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "CZK",
+    "currency_name": "Czech Koruna",
+    "country_code": "CZ",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "DJF",
+    "currency_name": "Djibouti Franc",
+    "country_code": "DJ",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "country_code": null,
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "DOP",
+    "currency_name": "Dominican Peso",
+    "country_code": "DO",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "DZD",
+    "currency_name": "Algerian Dinar",
+    "country_code": "DZ",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "EGP",
+    "currency_name": "Egyptian Pound",
+    "country_code": "EG",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "ERN",
+    "currency_name": "Nakfa",
+    "country_code": "ER",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "ETB",
+    "currency_name": "Ethiopian Birr",
+    "country_code": "ET",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "country_code": "EU",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "FJD",
+    "currency_name": "Fiji Dollar",
+    "country_code": "FJ",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "GBP",
+    "currency_name": "Pound Sterling",
+    "country_code": "GB",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "GEL",
+    "currency_name": "Lari",
+    "country_code": "GE",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "GHS",
+    "currency_name": "Ghana Cedi",
+    "country_code": "GH",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "GIP",
+    "currency_name": "Gibraltar Pound",
+    "country_code": "GI",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "GMD",
+    "currency_name": "Dalasi",
+    "country_code": "GM",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "GNF",
+    "currency_name": "Guinean Franc",
+    "country_code": "GN",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "GTQ",
+    "currency_name": "Quetzal",
+    "country_code": "GT",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "GYD",
+    "currency_name": "Guyana Dollar",
+    "country_code": "GY",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "country_code": "HK",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "HNL",
+    "currency_name": "Lempira",
+    "country_code": "HN",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "HRK",
+    "currency_name": "Kuna",
+    "country_code": "HR",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "HUF",
+    "currency_name": "Forint",
+    "country_code": "HU",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "IDR",
+    "currency_name": "Rupiah",
+    "country_code": "ID",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "ILS",
+    "currency_name": "New Israeli Sheqel",
+    "country_code": "IL",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "INR",
+    "currency_name": "Indian Rupee",
+    "country_code": "IN",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "IQD",
+    "currency_name": "Iraqi Dinar",
+    "country_code": "IQ",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "IRR",
+    "currency_name": "Iranian Rial",
+    "country_code": "IR",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "ISK",
+    "currency_name": "Iceland Krona",
+    "country_code": "IS",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "JMD",
+    "currency_name": "Jamaican Dollar",
+    "country_code": "JM",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "JOD",
+    "currency_name": "Jordanian Dinar",
+    "country_code": "JO",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "JPY",
+    "currency_name": "Yen",
+    "country_code": "JP",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "KES",
+    "currency_name": "Kenyan Shilling",
+    "country_code": "KE",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "KGS",
+    "currency_name": "Som",
+    "country_code": "KG",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "KHR",
+    "currency_name": "Riel",
+    "country_code": "KH",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "KMF",
+    "currency_name": "Comorian Franc",
+    "country_code": "KM",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "KPW",
+    "currency_name": "North Korean Won",
+    "country_code": "KP",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "KRW",
+    "currency_name": "Won",
+    "country_code": "KR",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "KWD",
+    "currency_name": "Kuwaiti Dinar",
+    "country_code": "KW",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "KYD",
+    "currency_name": "Cayman Islands Dollar",
+    "country_code": "KY",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "KZT",
+    "currency_name": "Tenge",
+    "country_code": "KZ",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "LAK",
+    "currency_name": "Lao Kip",
+    "country_code": "LA",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "LBP",
+    "currency_name": "Lebanese Pound",
+    "country_code": "LB",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "LKR",
+    "currency_name": "Sri Lanka Rupee",
+    "country_code": "LK",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "LRD",
+    "currency_name": "Liberian Dollar",
+    "country_code": "LR",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "LYD",
+    "currency_name": "Libyan Dinar",
+    "country_code": "LY",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "MAD",
+    "currency_name": "Moroccan Dirham",
+    "country_code": null,
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "MDL",
+    "currency_name": "Moldovan Leu",
+    "country_code": "MD",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "MGA",
+    "currency_name": "Malagasy Ariary",
+    "country_code": "MG",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "MKD",
+    "currency_name": "Denar",
+    "country_code": "MK",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "MMK",
+    "currency_name": "Kyat",
+    "country_code": "MM",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "MNT",
+    "currency_name": "Tugrik",
+    "country_code": "MN",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "MOP",
+    "currency_name": "Pataca",
+    "country_code": "MO",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "MRO",
+    "currency_name": "Ouguiya",
+    "country_code": "MR",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "MUR",
+    "currency_name": "Mauritius Rupee",
+    "country_code": "MU",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "MVR",
+    "currency_name": "Rufiyaa",
+    "country_code": "MV",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "MWK",
+    "currency_name": "Malawi Kwacha",
+    "country_code": "MW",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "MXN",
+    "currency_name": "Mexican Peso",
+    "country_code": "MX",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "MYR",
+    "currency_name": "Malaysian Ringgit",
+    "country_code": "MY",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "MZN",
+    "currency_name": "Mozambique Metical",
+    "country_code": "MZ",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "NAD",
+    "currency_name": "Namibia Dollar,Rand",
+    "country_code": "NA",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "NGN",
+    "currency_name": "Naira",
+    "country_code": "NG",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "NIO",
+    "currency_name": "Cordoba Oro",
+    "country_code": "NI",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "country_code": null,
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "NPR",
+    "currency_name": "Nepalese Rupee",
+    "country_code": "NP",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "country_code": null,
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "OMR",
+    "currency_name": "Rial Omani",
+    "country_code": "OM",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "PEN",
+    "currency_name": "Sol",
+    "country_code": "PE",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  },
+  {
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "country_code": "US",
+    "coin_denomination": "[1, 10, 50, 100]",
+    "decimal_digit": 3
+  }
+]
